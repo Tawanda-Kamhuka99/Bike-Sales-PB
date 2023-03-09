@@ -10,6 +10,8 @@ Tools used:
 Database: 
 - AdventureWorks sample databases: https://github.com/Microsoft/sql-server-samples/releases/download/adventureworks/AdventureWorksDW2019.bak
 
+Direct link to report: https://app.powerbi.com/view?r=eyJrIjoiNDdiODRiOTAtMWYxOS00ZjBjLThlOTYtZTI0ODJhNWZmNWNmIiwidCI6IjAzOWRkZTBhLTkxMTMtNDMwNy1iNDMxLTJlMDE1YWMwMTI1MyJ9
+
 #### Contributing
 
 If you find any bugs or issues with this script, please feel free to open an issue or submit a pull request.
